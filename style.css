@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand img{
+    height: auto;
+    width: 160px;
+}
+#bg{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background:#dc3545;
+    color: white;
+}
+#bg .just{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#bg a{
+    text-decoration: none;
+    color: white;
+    
+ 
+}
+#bg img{
+    
+    justify-content: flex-end;
+}
+
+h4{
+    margin-top: 40px;
+}
+.butt{
+    margin-left: 20px;
+}
+.bt{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
